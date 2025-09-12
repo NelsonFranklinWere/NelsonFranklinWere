@@ -53,7 +53,7 @@ My ultimate goal is to **transform ideas into working products** that create mea
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nelsonfrank516&show_icons=true&theme=tokyonight" alt="Nelson's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nelsonfrank516&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Nelson's GitHub stats" />
 </p>
 
 <p align="center">
