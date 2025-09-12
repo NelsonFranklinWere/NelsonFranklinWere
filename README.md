@@ -37,14 +37,17 @@ On a mission to **transform ideas into value-driven software** that fuels growth
 
 ## 👨‍💻 About Me  
 
-- 🔭 I’m currently working on **real-world web apps, SaaS projects, and API integrations**.  
-- 🌱 I’m currently learning **advanced DevOps practices, Docker, and Web3 concepts**.  
-- 👯 I’m looking to collaborate on **open-source projects, SaaS startups, and AI-driven solutions**.  
-- 🤔 I’m looking for help with **contributing to large-scale DevOps pipelines and cloud-native applications**.  
-- 💬 Ask me about **JavaScript, Node.js, React, Java, DevOps, and building scalable systems**.  
-- 📫 How to reach me: **solutionsnelson@gmail.com**  
-- 😄 Pronouns: **He/Him**  
-- ⚡  fact: *When I’m not coding, I enjoy exploring new business models, learning about fintech, and testing new tech tools.*  
+With a solid foundation in **full-stack development, databases, cloud, and Linux systems**, I bring both **technical depth** and **business awareness** to every project I take on.  
+
+💡 **What defines me professionally**:  
+- Building clean, scalable, and secure **web & mobile applications**  
+- Designing and deploying **backends, APIs, and databases**  
+- Leveraging **DevOps & Linux** to improve performance and reliability  
+- Collaborating with teams on **SaaS, AI, and FinTech solutions**  
+- Continuously learning & sharing knowledge in modern technologies  
+
+My ultimate goal is to **transform ideas into working products** that create measurable impact and value. 
+
 
 ---
 
