@@ -1,4 +1,4 @@
-# Hello, I'm Nelson Franklin Were
+# I'm Nelson Franklin Were
 
 **Junior Software Engineer** | 
 I Help startups, SMEs, and individuals build **scalable web & mobile solutions**.  
@@ -7,7 +7,7 @@ On a mission to **transform ideas into value-driven software** that fuels growth
 
 ---
 
-## 💡 What I Do
+##  What I Do
 - 🔹 Design & build **modern websites and apps** using the latest web technologies.  
 - 🔹 Implement **backend systems** and APIs with Node.js & Express.  
 - 🔹 Manage **databases** (MySQL, Postgre & MongoDB) for scalable solutions.  
@@ -35,7 +35,7 @@ On a mission to **transform ideas into value-driven software** that fuels growth
 
 ---
 
-## 👨‍💻 About Me  
+##  About Me  
 
 With a solid foundation in **full-stack development, databases, cloud, and Linux systems**, I bring both **technical depth** and **business awareness** to every project I take on.  
 
@@ -51,7 +51,29 @@ My ultimate goal is to **transform ideas into working products** that create mea
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Experience  
+
+- **Software Engineer Intern** – Arizona College *(March- July 31, 2025)*  
+  → Maintained website,
+  → Developed a Hotel Management system for Cafeteria (Java).
+  → Tutored Programming for some students (Java)
+  , supported IT systems.
+  
+- **IT Specialist Intern** – Beam International College *(Mar – Aug 2024)*  
+  → Taught KNEC ICT courses, managed networking & IT infrastructure.
+  → Customized WordPress solutions for their website email set up(Elementor). 
+
+---
+
+##  What I’m Exploring  
+
+- WhatsApp Chatbots for SMEs (Node.js + NLP + MPesa integrations)  
+- Web3 & Blockchain development fundamentals  
+- Affiliate marketing & digital entrepreneurship  
+
+---
+
+##  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nelsonfrank516&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Nelson's GitHub stats" />
 </p>
@@ -62,11 +84,15 @@ My ultimate goal is to **transform ideas into working products** that create mea
 
 ---
 
-## 🤝 Let's Collaborate
+##  Let's Collaborate
 💼 I’m open to collaborations, freelance projects, and building long-term partnerships in **software engineering, SaaS, and AI-driven products**.  
 
-📩 Reach me: **solutionsnelson@gmail.com**  
+- GitHub: [@nelsonfranklinwere](https://github.com/nelsonfranklinwere)  
+- LinkedIn: [@nelsonwere](https://www.linkedin.com/in/nelson-w-a557272b4)
+- Facebook: [@nelsonfrank](https://www.facebook.com/profile.php?id=100089972558754)
+- X (Twitter): [@nelson](https://x.com/OchiengNe88651)
+- 📩 Reach me: **solutionsnelson@gmail.com**  
 
 ---
 
-⭐️ *“Code isn’t just about syntax — it’s about solving problems and creating impact.”*  
+ *“Code isn’t just about syntax — it’s about solving problems and creating impact.”*  
