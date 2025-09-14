@@ -59,7 +59,7 @@ My ultimate goal is to **transform ideas into working products** that create mea
   → Tutored Programming for some students (Java)
   , supported IT systems.
   
-- **IT Specialist Intern** – Beam International College *(Mar – Aug 2024)*  
+- **IT Specialist Attachee** – Beam International College *(Mar – Aug 2024)*  
   → Taught KNEC ICT courses, managed networking & IT infrastructure.
   → Customized WordPress solutions for their website email set up(Elementor). 
 
