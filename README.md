@@ -73,17 +73,6 @@ My ultimate goal is to **transform ideas into working products** that create mea
 
 ---
 
-##  GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nelsonfrank516&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Nelson's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nelsonfrank516&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ##  Let's Collaborate
 💼 I’m open to collaborations, freelance projects, and building long-term partnerships in **software engineering, SaaS, and AI-driven products**.  
 
